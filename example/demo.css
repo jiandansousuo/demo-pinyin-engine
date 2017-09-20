@@ -1,0 +1,80 @@
+body {
+  font-size: 12px;
+}
+
+#tmpl-schoolBox ul,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0
+}
+
+#tmpl-schoolBox a {
+  color: #3A6EA5;
+}
+
+#tmpl-schoolBox {
+  width: 550px;
+  padding: 5px 0;
+  background: #E3EAF4;
+}
+
+#tmpl-schoolBox-unis {
+  margin: 0 5px!important;
+  padding: 5px!important;
+  background: #FFF;
+}
+
+#tmpl-schoolBox-unis li,
+#tmpl-schoolBox-unis li a {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+}
+
+#tmpl-schoolBox-search {
+  padding: 0 5px;
+  margin-bottom: 5px;
+}
+
+#tmpl-schoolBox-search-input {
+  width: 15em;
+  padding: 4px 6px;
+  vertical-align: middle;
+  padding-right: 1.6em;
+  border: 1px solid #CCC;
+  color: #666;
+}
+
+#tmpl-schoolBox-unis {
+  height: 350px;
+  overflow: auto;
+  position: relative;
+}
+
+#tmpl-schoolBox-unis li {
+  width: 33.333%;
+  *width: 32.2%;
+}
+
+#tmpl-schoolBox-unis li a {
+  display: block;
+  line-height: 2em;
+  padding: 0 5px;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis
+}
+
+#tmpl-schoolBox-unis li a:hover {
+  background: #3A6EA5;
+  color: #fff;
+}
+
+.tmpl-schoolBox-noContent {
+  height: 2em;
+  line-height: 2em;
+  padding: 0 5px;
+  color: #888;
+}
