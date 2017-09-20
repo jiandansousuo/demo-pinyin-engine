@@ -2,8 +2,7 @@
   "name": "simple-search-engine",
   "version": "1.0.0",
   "main": "./dist/PinyinEngine.js",
-  "repository": "https://github.com/yugasun/SearchEngine.git",
-  "author": "yugasun <yuga_sun@163.com>",
+  "author": "jiandansousuo",
   "license": "MIT",
   "scripts": {
     "build": "webpack --colors --progress"
@@ -14,5 +13,21 @@
     "babel-preset-env": "^1.6.0",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.8.2"
+  },
+  "description": "Simple search engine by pinyin, this project is copy from [pinyin-engine](https://github.com/aui/pinyin-engine) for study.",
+  "bugs": {
+    "url": "https://github.com/yugasun/SearchEngine/issues"
+  },
+  "homepage": "https://github.com/yugasun/SearchEngine#readme",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "pinyin",
+    "search-eigine"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiandansousuo/demo-pinyin-engine.git"
   }
 }
