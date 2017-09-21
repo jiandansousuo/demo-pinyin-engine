@@ -68,6 +68,7 @@ class PinyinEngine {
       indexs = history.indexs
       data = history.data
     }
+    history.keyword = keyword
     history.indexs = []
     history.data = []
 
