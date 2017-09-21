@@ -1,5 +1,5 @@
 {
-  "name": "simple-search-engine",
+  "name": "demo-pinyin-engine",
   "version": "1.0.0",
   "main": "./dist/PinyinEngine.js",
   "author": "jiandansousuo",
@@ -16,9 +16,9 @@
   },
   "description": "Simple search engine by pinyin, this project is copy from [pinyin-engine](https://github.com/aui/pinyin-engine) for study.",
   "bugs": {
-    "url": "https://github.com/yugasun/SearchEngine/issues"
+    "url": "https://github.com/jiandansousuo/demo-pinyin-engine/issues"
   },
-  "homepage": "https://github.com/yugasun/SearchEngine#readme",
+  "homepage": "https://github.com/jiandansousuo/demo-pinyin-engine#readme",
   "directories": {
     "example": "example"
   },
