@@ -4,7 +4,7 @@
 
 ### 使用
 
-本地直接浏览器打开 `./example/index.html` 即可预览。
+下载并解压该项目后，本地直接浏览器打开 `./example/index.html` 即可预览。
 
 ### Link
 
