@@ -12,7 +12,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
     "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.8.2"
+    "webpack-dev-server": "^3.1.11"
   },
   "description": "Simple search engine by pinyin, this project is copy from [pinyin-engine](https://github.com/aui/pinyin-engine) for study.",
   "bugs": {
